@@ -1,2 +1,2 @@
-# github-pracice1
- this is my first repository
+# Practice Github Repository
+ This is my first github repository
